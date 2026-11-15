@@ -4,7 +4,7 @@ import base64
 import json
 from pathlib import Path
 
-st.set_page_config(page_title="接香菸大作戰", page_icon="🎮", layout="wide")
+st.set_page_config(page_title="灰狼大作戰", page_icon="🎮", layout="wide")
 
 st.markdown("""
 <style>
@@ -15,7 +15,7 @@ h1 {color:#ffd166;text-align:center}
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown("# 🎮 接香菸大作戰")
+st.markdown("# 🎮 灰狼大作戰")
 st.markdown('<p class="subtitle">左右移動主角，接住掉落物，挑戰最高分！</p>',
             unsafe_allow_html=True)
 
